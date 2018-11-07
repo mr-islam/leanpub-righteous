@@ -1,9 +1,4 @@
----
-title: "Chasing a Sneeze"
-date: 2018-09-13
----
-
-*This story is part of the [Stories of the Righteous]({{< relref "stories-of-the-righteous.md" >}}) initiative, which aims to share narratives that inspire reform, faith and piety in all who read them — trying to fulfill our need of righteous company in a time when it's hard to find.*\
+﻿*This story is part of the [Stories of the Righteous]({{< relref "stories-of-the-righteous.md" >}}) initiative, which aims to share narratives that inspire reform, faith and piety in all who read them — trying to fulfill our need of righteous company in a time when it's hard to find.*\
 
 # **Story**
 
